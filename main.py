@@ -6,6 +6,5 @@ num4 = float(input("Enter 4th number:- "))
 num5 = float(input("Enter 5th number:- "))
 
 avg = num1+num2+num3+num4+num5
-final_avg = avg/5
+print("Average of the numbers is :",final_avg = avg/5)
 
-# i have not printed anything use print statement to print final_avg
